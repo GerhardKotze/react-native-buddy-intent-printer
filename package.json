@@ -1,0 +1,22 @@
+{
+  "name": "react-native-buddy-intent-printer",
+  "version": "1.0.0",
+  "description": "Buddy specific addon to lucasferreira's project - For internal use only - Do not distribute ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerhardKotze/react-native-buddy-intent-printer.git"
+  },
+  "keywords": [
+    "buddy"
+  ],
+  "author": "Gerhard Kotze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerhardKotze/react-native-buddy-intent-printer/issues"
+  },
+  "homepage": "https://github.com/GerhardKotze/react-native-buddy-intent-printer#readme"
+}
